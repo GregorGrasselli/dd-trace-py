@@ -111,6 +111,7 @@ setup(
         url="https://github.com/DataDog/dd-trace-py",
         author="Datadog, Inc.",
         author_email="dev@datadoghq.com",
+        version="0.38.1",
         long_description=long_description,
         long_description_content_type="text/markdown",
         license="BSD",
